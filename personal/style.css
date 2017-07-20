@@ -1,0 +1,45 @@
+h1 {
+  font-family: courier; helvetica; times; "times new roman";
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+  background-color: cyan;
+}
+div h2 {
+  width: 25%;
+  float: left;
+  font-family: courier; helvetica; times; "times new roman";
+}
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+}
+body.home {
+  background-image: url("file:///Users/martinpham/desktop/wdi/day2/personal/snowboard.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+}
+body.career {
+  background-image: url("file:///Users/martinpham/desktop/wdi/day2/personal/linkpic.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+body.interests {
+  background-image: url("file:///Users/martinpham/desktop/wdi/day2/personal/balloon.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+}
+body.about {
+  background-image: url("file:///Users/martinpham/desktop/wdi/day2/personal/MeKid.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+body.contact {
+  
+}

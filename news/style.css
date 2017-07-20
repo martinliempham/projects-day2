@@ -1,0 +1,26 @@
+h1 {
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+}
+div {
+  width: 25%;
+  float: left;
+}
+div h2 {
+  color: black;
+  margin: 20px;
+  padding: 50px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+}
+img {
+  height: 100px;
+  width: 150px;
+}
+span {
+  color: grey;
+  font-size: .5em;
+}
